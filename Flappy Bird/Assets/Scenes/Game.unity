@@ -720,8 +720,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c230a4e169c8a2943b4b90009971c4a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpHight: 2.3
-  fall: 0.1
+  jumpForce: 7
   body: {fileID: 1754400654}
 --- !u!1 &1884426766
 GameObject:
