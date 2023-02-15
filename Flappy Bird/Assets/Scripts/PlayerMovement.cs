@@ -12,7 +12,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            body.velocity = Vector2.up * jumpForce;
+            body.velocity = Vector2.up * jumpForce;  
         }
     }
 }
